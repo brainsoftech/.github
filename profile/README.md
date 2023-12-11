@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brains-of-tech&label=Profile%20views&color=0e75b6&style=flat" alt="brains-of-tech" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=brainsoftech)](https://github.com/brainsoftech/github-profile-trophy) </p>
-
 - 🔭We,re currently working on **a project with a next.js and laravel**
 
 - 👯 We,re looking to collaborate on **any kind of project**
